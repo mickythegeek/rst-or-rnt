@@ -5,4 +5,4 @@ Rest-or-Rant is a Food Order website clone in which customers can order takeaway
 
 ### Screen shot of the application
 
-![Landing Page](./images/rest-or-rant.png)
+![Landing Page](rest-or-rant.png)
